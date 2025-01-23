@@ -1,9 +1,10 @@
-###Task-Manager
+### Task-Manager
+
 I have made a fully JavaScript-based project without using HTML and CSS, we can focus on building a command-line application or a node.js application. 
  A simple Task Manager (To-Do List) using Node.js and in-memory storage. It can be a command-line application where users can add, view, and delete tasks.
 This will demonstrate your understanding of JavaScript logic, arrays, and how to handle basic input/output operations in a JavaScript environment.
 
-### Project Idea: Command-Line To-Do List with Node.js
+• Project Idea: Command-Line To-Do List with Node.js
  
 **Project Features**
 •	Add a task.
